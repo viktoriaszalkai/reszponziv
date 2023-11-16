@@ -26,6 +26,7 @@ main{
 article img{
     width: 100%;
     text-align: center;
+    
 }
 
 section{
@@ -85,6 +86,10 @@ nav{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 5px;
+}
+.kepek{
+    border: 1px solid black;
+    padding: 3px;
 }
 
 
